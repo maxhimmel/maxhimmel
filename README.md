@@ -1,9 +1,9 @@
 ## Welcome! 🛹
 I am a full-stack software engineer with a strong background in gameplay engineering, bringing over six years of experience in crafting clean, modular, and efficient code. I thrive on finding the best solutions to complex problems, whether it's integrating new technologies, refining frameworks, or designing scalable systems. My passion lies in continuous learning and collaboration, and I aspire to expand my expertise in improving developer experience and high-level architectural design, contributing to the development of impactful and innovative software.
 
-+ Languages/Frameworks: React, Express, Typescript, Javascript, T3, Next.js, tRPC, Tailwind CSS, Node
-+ Utilities: VS Code, Git, Github, SQL, MongoDB, Heroku, Vercel, Render
-+ Interests: Skateboarding, doodling, disco, learning, comics
++ **Languages/Frameworks**: React, Express, Typescript, Javascript, T3, Next.js, tRPC, Tailwind CSS, Node
++ **Utilities**: VS Code, Git, Github, SQL, MongoDB, Heroku, Vercel, Render
++ **Interests**: Skateboarding, doodling, disco, learning, comics
 
 <!--
 **maxhimmel/maxhimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
